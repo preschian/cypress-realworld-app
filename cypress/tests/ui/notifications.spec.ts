@@ -7,7 +7,7 @@ type NotificationsCtx = {
   userC: User;
 };
 
-describe("Notifications", function () {
+describe("Notifications test", function () {
   const ctx = {} as NotificationsCtx;
 
   beforeEach(function () {
